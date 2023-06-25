@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Nece\\Brawl\\Pns": "src/"
+            "Nece\\Brawl\\Pns\\": "src/"
         }
     },
     "authors": [
